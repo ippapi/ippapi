@@ -19,12 +19,6 @@
 
 ---
 
-## 🖼️ 3D Contribution  
-
-![3D Contribution](https://raw.githubusercontent.com/ippapi/ippapi/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🎶 Now Playing on Spotify  
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gaudiikq7fivlcanxdls23pvw4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
