@@ -26,7 +26,7 @@ I use Arch Linux btw.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ippapi&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?usernam=ippapip&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?usernam=ippapi&theme=radical)
 
 ---
 
